@@ -65,9 +65,10 @@ class Dinic:
         g = [[] for _ in range(self.length)]
         for u in range(self.length):
             for v, w in self._graph[u]:
-                if self.graph[u][v] == 0 or u in [0, 1] or v in [0, 1]:
+                if self.graph[u][v] == 0 or w != 1 or u in [0, 1] or v in [0, 1]:
                     g[u].append((v, 0))
         # show_graph(g, model=self._graph)
+        # exit()
         paths = []
         father = [-1] * self.length
         queue = deque()
@@ -75,13 +76,13 @@ class Dinic:
         final = []
         while queue:
             u = queue.popleft()
-            flag = False
             for v, _ in g[u]:
-                flag = True
+                if v == 1:
+                    if u not in final:
+                        final.append(u)
+                    continue
                 father[v] = u
                 queue.append(v)
-            if not flag and u not in final:
-                final.append(u)
         for u in final:
             cur = u
             path = []
@@ -104,6 +105,9 @@ if __name__ == '__main__':
     dinic = Dinic(graph)
     max_flow = dinic.max_flow(0, 1)
     paths = dinic.find_paths()
+    for i in range(10):
+        print(paths[i])
+    print(len(paths), max_flow)
 
     # show_graph(graph, paths=paths)
 

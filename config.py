@@ -1,20 +1,20 @@
 # config
-TOT_WEEKS = 3
+TOT_WEEKS = 2
 
 first_class = 'illness'
 
 range_patient = (75, 100)
-range_operator = (12, 16)
+range_operator = (3, 4)
 range_anesthesiologist = (6, 10)
 range_room = (6, 10)
 range_nurse = (10, 13)
 
 # test
-# range_patient = (14, 14)
-# range_operator = (3, 3)
-# range_anesthesiologist = (3, 3)
-# range_room = (2, 2)
-# range_nurse = (2, 2)
+range_patient = (75, 75)
+range_operator = (3, 3)
+range_anesthesiologist = (3, 3)
+range_room = (4, 4)
+range_nurse = (2, 2)
 
 available_rate_patient = 1
 available_rate_operator = 0.3
@@ -23,11 +23,11 @@ available_rate_room = 0.4
 available_rate_nurse = 0.3
 
 # test
-# available_rate_patient = 1
-# available_rate_operator = 0.7
-# available_rate_anesthesiologist = 0.8
-# available_rate_room = 0.7
-# available_rate_nurse = 0.5
+available_rate_patient = 1
+available_rate_operator = 0.7
+available_rate_anesthesiologist = 0.8
+available_rate_room = 0.7
+available_rate_nurse = 0.5
 
 max_flow = {
     'illness': 1,
