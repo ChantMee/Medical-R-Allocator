@@ -1,0 +1,69 @@
+FUNCTION construct_graph()
+    INITIALIZE node_info and index structures for storing graph nodes and their connections
+    CREATE super source and super sink nodes and add them to node_info
+
+    FOR each category and resource in resources
+        IF the category is the first class (e.g., illness)
+            CREATE nodes for each resource and their duplicates, and link them
+            UPDATE the index for tracking connections
+        ELSE
+            FOR each week in total weeks
+                FOR each resource in the category
+                    FOR each available shift for the resource
+                        CREATE nodes for each resource at each time slot and their duplicates, and link them
+                        UPDATE the index for tracking connections
+
+    INITIALIZE an empty graph structure with lists for each node
+    FOR each node in node_info
+        IF node is the first class and not a duplicate
+            CONNECT it to its duplicate and to the super source
+        CONNECT the node to the next category based on dependencies
+    CALL build_graph function to recursively link all nodes according to dependencies and shifts
+
+FUNCTION build_graph(current_node)
+    IF current_node is a terminal node in the flow (END)
+        CONNECT it to its duplicate and the super sink
+        RETURN
+    ELSE
+        FOR each child node based on current node's dependencies and available shifts
+            BUILD connections recursively
+CLASS Dinic
+    FUNCTION __init__(graph)
+        MAKE a deep copy of the graph
+        INITIALIZE level and iterator arrays for BFS and DFS
+
+    FUNCTION bfs(source, sink)
+        PERFORM a breadth-first search to label levels of nodes from source to sink
+        RETURN True if a path exists, otherwise False
+
+    FUNCTION dfs(current, sink, flow)
+        DEPTH-first search to find and augment flow from source to sink
+        RETURN the flow found
+
+    FUNCTION max_flow(source, sink)
+        WHILE a path from source to sink exists
+            FIND augmenting paths and add to total flow
+        CALL find_path to collect all augmenting paths
+        RETURN the total flow
+
+    FUNCTION find_path(source, sink)
+        FIND and store all paths used in the final flow solution
+
+CREATE an instance of Dinic with the graph
+CALL max_flow with super source and super sink to find the maximum flow
+PRINT the maximum flow
+OPTIONALLY save and print paths for visualization or debugging
+FUNCTION print_arangement(arangement)
+    FOR each item in arangement
+        IGNORE super source and sink
+        IF item is not a duplicate
+            PRINT time, category, and other details of the arrangement
+
+FUNCTION save_arangement(arangements)
+    OPEN a file for writing results
+    FOR each arangement in arangements
+        CALCULATE and format the time and resource details
+        WRITE the formatted details to the file
+
+CALL print_arangement for each found path or desired output
+CALL save_arangement with all paths or desired output for documentation or further analysis

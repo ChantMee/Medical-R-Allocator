@@ -1,0 +1,95 @@
+Week,Day,Time,ID,Type,ID,Type,ID,Type,ID,Type,ID,Type
+1,Tue,Morning,0,Inguinal Hernia Repair,1,Pediatrics,4,Pediatrics,0,Anesthesiologist,1,Nurse
+1,Mon,Morning,1,Coronary Artery Bypass Graft,10,Cardiology,1,Surgical Room,0,Anesthesiologist,4,Nurse
+1,Mon,Morning,2,Fracture Repair,2,Orthopedics,1,Surgical Room,1,Anesthesiologist,4,Nurse
+1,Mon,Morning,3,Fracture Repair,2,Orthopedics,6,Surgical Room,1,Anesthesiologist,8,Nurse
+1,Mon,Morning,4,Valve Replacement,10,Cardiology,2,Surgical Room,0,Anesthesiologist,0,Nurse
+1,Wed,Morning,5,Brain Tumor Removal,0,Neurology,2,Surgical Room,3,Anesthesiologist,0,Nurse
+1,Wed,Morning,6,Appendectomy,3,Surgery,1,Surgical Room,2,Anesthesiologist,0,Nurse
+1,Fri,Morning,7,Fracture Repair,2,Orthopedics,5,Surgical Room,2,Anesthesiologist,2,Nurse
+1,Wed,Morning,8,Gallbladder Removal,3,Surgery,5,Surgical Room,2,Anesthesiologist,1,Nurse
+1,Tue,Morning,9,Valve Replacement,10,Cardiology,1,Surgical Room,1,Anesthesiologist,1,Nurse
+1,Tue,Morning,10,Valve Replacement,10,Cardiology,2,Surgical Room,1,Anesthesiologist,3,Nurse
+1,Tue,Morning,11,Valve Replacement,10,Cardiology,6,Surgical Room,1,Anesthesiologist,9,Nurse
+1,Fri,Morning,12,Spinal Fusion,0,Neurology,5,Surgical Room,6,Anesthesiologist,2,Nurse
+1,Wed,Morning,13,Valve Replacement,10,Cardiology,7,Surgical Room,2,Anesthesiologist,5,Nurse
+1,Thu,Morning,14,Appendectomy,3,Surgery,5,Surgical Room,0,Anesthesiologist,3,Nurse
+1,Fri,Morning,15,Spinal Fusion,0,Neurology,7,Surgical Room,2,Anesthesiologist,4,Nurse
+1,Thu,Morning,16,Coronary Artery Bypass Graft,10,Cardiology,1,Surgical Room,4,Anesthesiologist,1,Nurse
+1,Fri,Morning,17,Fracture Repair,2,Orthopedics,7,Surgical Room,6,Anesthesiologist,4,Nurse
+1,Mon,Morning,18,Joint Replacement,6,Orthopedics,2,Surgical Room,2,Anesthesiologist,0,Nurse
+1,Sat,Morning,19,Joint Replacement,6,Orthopedics,1,Surgical Room,3,Anesthesiologist,0,Nurse
+1,Sat,Morning,20,Fracture Repair,6,Orthopedics,5,Surgical Room,6,Anesthesiologist,3,Nurse
+1,Thu,Morning,21,Gallbladder Removal,3,Surgery,1,Surgical Room,6,Anesthesiologist,1,Nurse
+1,Thu,Morning,22,Coronary Artery Bypass Graft,10,Cardiology,2,Surgical Room,4,Anesthesiologist,2,Nurse
+1,Wed,Morning,23,Inguinal Hernia Repair,1,Pediatrics,3,Pediatrics,2,Anesthesiologist,6,Nurse
+1,Fri,Morning,24,Coronary Artery Bypass Graft,10,Cardiology,1,Surgical Room,1,Anesthesiologist,0,Nurse
+1,Fri,Morning,25,Coronary Artery Bypass Graft,10,Cardiology,2,Surgical Room,1,Anesthesiologist,1,Nurse
+1,Sun,Morning,26,Brain Tumor Removal,0,Neurology,5,Surgical Room,2,Anesthesiologist,2,Nurse
+2,Mon,Afternoon,27,Valve Replacement,10,Cardiology,1,Surgical Room,0,Anesthesiologist,4,Nurse
+2,Mon,Afternoon,28,Valve Replacement,10,Cardiology,2,Surgical Room,0,Anesthesiologist,0,Nurse
+1,Thu,Morning,29,Heart Defect Repair,1,Pediatrics,4,Pediatrics,0,Anesthesiologist,2,Nurse
+1,Sun,Morning,30,Spinal Fusion,0,Neurology,6,Surgical Room,2,Anesthesiologist,3,Nurse
+1,Sun,Morning,31,Inguinal Hernia Repair,1,Pediatrics,3,Pediatrics,2,Anesthesiologist,7,Nurse
+1,Sat,Morning,32,Fracture Repair,6,Orthopedics,7,Surgical Room,6,Anesthesiologist,4,Nurse
+1,Thu,Morning,33,Gallbladder Removal,3,Surgery,2,Surgical Room,6,Anesthesiologist,2,Nurse
+1,Mon,Morning,34,Spinal Fusion,5,Neurology,1,Surgical Room,2,Anesthesiologist,4,Nurse
+1,Fri,Morning,35,Gallbladder Removal,3,Surgery,2,Surgical Room,2,Anesthesiologist,2,Nurse
+1,Sat,Morning,36,Gallbladder Removal,3,Surgery,1,Surgical Room,0,Anesthesiologist,0,Nurse
+2,Tue,Afternoon,37,Coronary Artery Bypass Graft,10,Cardiology,1,Surgical Room,1,Anesthesiologist,1,Nurse
+1,Sun,Morning,38,Appendectomy,3,Surgery,1,Surgical Room,1,Anesthesiologist,5,Nurse
+2,Tue,Afternoon,39,Valve Replacement,10,Cardiology,2,Surgical Room,1,Anesthesiologist,3,Nurse
+2,Tue,Afternoon,40,Valve Replacement,10,Cardiology,6,Surgical Room,1,Anesthesiologist,9,Nurse
+1,Sun,Morning,41,Appendectomy,3,Surgery,2,Surgical Room,1,Anesthesiologist,10,Nurse
+1,Mon,Morning,42,Inguinal Hernia Repair,4,Pediatrics,0,Pediatrics,2,Anesthesiologist,8,Nurse
+2,Wed,Afternoon,43,Valve Replacement,10,Cardiology,1,Surgical Room,2,Anesthesiologist,0,Nurse
+1,Sun,Morning,44,Joint Replacement,6,Orthopedics,5,Surgical Room,3,Anesthesiologist,2,Nurse
+1,Sun,Morning,45,Fracture Repair,6,Orthopedics,6,Surgical Room,3,Anesthesiologist,3,Nurse
+1,Fri,Morning,46,Spinal Fusion,5,Neurology,2,Surgical Room,5,Anesthesiologist,2,Nurse
+1,Mon,Morning,47,Gallbladder Removal,9,Surgery,1,Surgical Room,5,Anesthesiologist,4,Nurse
+1,Mon,Morning,48,Heart Defect Repair,4,Pediatrics,4,Pediatrics,3,Anesthesiologist,8,Nurse
+2,Wed,Afternoon,49,Valve Replacement,10,Cardiology,5,Surgical Room,2,Anesthesiologist,1,Nurse
+1,Mon,Morning,50,Inguinal Hernia Repair,4,Pediatrics,0,Pediatrics,0,Anesthesiologist,2,Nurse
+1,Mon,Morning,51,Heart Defect Repair,4,Pediatrics,3,Pediatrics,0,Anesthesiologist,6,Nurse
+1,Mon,Morning,52,Inguinal Hernia Repair,4,Pediatrics,4,Pediatrics,0,Anesthesiologist,10,Nurse
+1,Mon,Morning,53,Gallbladder Removal,9,Surgery,6,Surgical Room,5,Anesthesiologist,8,Nurse
+1,Tue,Morning,54,Inguinal Hernia Repair,4,Pediatrics,0,Pediatrics,1,Anesthesiologist,10,Nurse
+1,Wed,Morning,55,Heart Defect Repair,4,Pediatrics,3,Pediatrics,3,Anesthesiologist,3,Nurse
+1,Sat,Morning,56,Spinal Fusion,5,Neurology,1,Surgical Room,5,Anesthesiologist,0,Nurse
+1,Fri,Morning,57,Spinal Fusion,7,Neurology,2,Surgical Room,6,Anesthesiologist,2,Nurse
+1,Fri,Morning,58,Gallbladder Removal,9,Surgery,1,Surgical Room,2,Anesthesiologist,0,Nurse
+1,Fri,Morning,59,Appendectomy,9,Surgery,2,Surgical Room,2,Anesthesiologist,1,Nurse
+1,Sat,Morning,60,Brain Tumor Removal,7,Neurology,1,Surgical Room,1,Anesthesiologist,0,Nurse
+1,Sat,Morning,61,Brain Tumor Removal,7,Neurology,1,Surgical Room,6,Anesthesiologist,0,Nurse
+2,Wed,Afternoon,62,Appendectomy,3,Surgery,7,Surgical Room,2,Anesthesiologist,5,Nurse
+1,Tue,Morning,63,Brain Tumor Removal,8,Neurology,1,Surgical Room,2,Anesthesiologist,1,Nurse
+1,Fri,Morning,64,Heart Defect Repair,4,Pediatrics,0,Pediatrics,2,Anesthesiologist,6,Nurse
+2,Thu,Afternoon,65,Coronary Artery Bypass Graft,10,Cardiology,1,Surgical Room,4,Anesthesiologist,1,Nurse
+1,Fri,Morning,66,Inguinal Hernia Repair,4,Pediatrics,3,Pediatrics,2,Anesthesiologist,7,Nurse
+2,Thu,Afternoon,67,Gallbladder Removal,3,Surgery,5,Surgical Room,0,Anesthesiologist,3,Nurse
+2,Thu,Afternoon,68,Coronary Artery Bypass Graft,10,Cardiology,2,Surgical Room,4,Anesthesiologist,2,Nurse
+2,Tue,Afternoon,69,Inguinal Hernia Repair,1,Pediatrics,4,Pediatrics,0,Anesthesiologist,1,Nurse
+2,Fri,Afternoon,70,Coronary Artery Bypass Graft,10,Cardiology,1,Surgical Room,1,Anesthesiologist,0,Nurse
+1,Tue,Morning,71,Fracture Repair,12,Orthopedics,2,Surgical Room,2,Anesthesiologist,3,Nurse
+1,Tue,Morning,72,Brain Tumor Removal,8,Neurology,6,Surgical Room,2,Anesthesiologist,9,Nurse
+2,Thu,Afternoon,73,Gallbladder Removal,3,Surgery,1,Surgical Room,6,Anesthesiologist,1,Nurse
+2,Fri,Afternoon,74,Valve Replacement,10,Cardiology,2,Surgical Room,1,Anesthesiologist,1,Nurse
+1,Sat,Morning,75,Brain Tumor Removal,11,Neurology,1,Surgical Room,2,Anesthesiologist,0,Nurse
+2,Wed,Afternoon,76,Heart Defect Repair,1,Pediatrics,3,Pediatrics,2,Anesthesiologist,6,Nurse
+1,Fri,Morning,77,Fracture Repair,12,Orthopedics,1,Surgical Room,4,Anesthesiologist,0,Nurse
+1,Fri,Morning,78,Spinal Fusion,12,Orthopedics,2,Surgical Room,4,Anesthesiologist,1,Nurse
+2,Thu,Afternoon,79,Appendectomy,3,Surgery,2,Surgical Room,6,Anesthesiologist,2,Nurse
+2,Wed,Afternoon,80,Spinal Fusion,0,Neurology,2,Surgical Room,3,Anesthesiologist,0,Nurse
+2,Fri,Afternoon,81,Gallbladder Removal,3,Surgery,2,Surgical Room,2,Anesthesiologist,2,Nurse
+2,Thu,Afternoon,82,Inguinal Hernia Repair,1,Pediatrics,4,Pediatrics,0,Anesthesiologist,2,Nurse
+2,Sun,Afternoon,83,Inguinal Hernia Repair,1,Pediatrics,3,Pediatrics,2,Anesthesiologist,2,Nurse
+2,Mon,Afternoon,84,Inguinal Hernia Repair,4,Pediatrics,0,Pediatrics,1,Anesthesiologist,8,Nurse
+2,Mon,Afternoon,85,Heart Defect Repair,4,Pediatrics,4,Pediatrics,2,Anesthesiologist,8,Nurse
+2,Fri,Afternoon,86,Spinal Fusion,0,Neurology,5,Surgical Room,2,Anesthesiologist,2,Nurse
+2,Mon,Afternoon,87,Inguinal Hernia Repair,4,Pediatrics,0,Pediatrics,0,Anesthesiologist,2,Nurse
+2,Fri,Afternoon,88,Brain Tumor Removal,0,Neurology,7,Surgical Room,2,Anesthesiologist,4,Nurse
+2,Sat,Afternoon,89,Gallbladder Removal,3,Surgery,1,Surgical Room,0,Anesthesiologist,0,Nurse
+2,Sun,Afternoon,90,Appendectomy,3,Surgery,1,Surgical Room,1,Anesthesiologist,5,Nurse
+2,Sun,Afternoon,91,Spinal Fusion,0,Neurology,5,Surgical Room,2,Anesthesiologist,3,Nurse
+2,Sun,Afternoon,92,Gallbladder Removal,3,Surgery,2,Surgical Room,1,Anesthesiologist,10,Nurse
+2,Mon,Afternoon,93,Inguinal Hernia Repair,4,Pediatrics,3,Pediatrics,0,Anesthesiologist,6,Nurse

@@ -1,0 +1,38 @@
+Week,Day,Time,ID,Type,ID,Type,ID,Type,ID,Type,ID,Type
+1,Wed,Morning,7,Fracture Repair,1,Orthopedics,4,Surgical Room,1,Anesthesiologist
+1,Wed,Morning,10,Spinal Fusion,2,Orthopedics,0,Surgical Room,6,Anesthesiologist
+1,Thu,Morning,2,Inguinal Hernia Repair,0,Pediatrics,1,Pediatrics,0,Anesthesiologist
+1,Sat,Morning,34,Inguinal Hernia Repair,7,Pediatrics,3,Pediatrics,3,Anesthesiologist
+1,Fri,Morning,8,Joint Replacement,1,Orthopedics,5,Surgical Room,5,Anesthesiologist
+1,Sat,Morning,5,Heart Defect Repair,0,Pediatrics,2,Pediatrics,4,Anesthesiologist
+1,Sun,Morning,16,Spinal Fusion,3,Neurology,5,Surgical Room,3,Anesthesiologist
+1,Fri,Morning,47,Inguinal Hernia Repair,10,Pediatrics,2,Pediatrics,5,Anesthesiologist
+1,Sat,Morning,11,Valve Replacement,13,Cardiology,4,Surgical Room,5,Anesthesiologist
+1,Sun,Morning,14,Inguinal Hernia Repair,0,Pediatrics,1,Pediatrics,6,Anesthesiologist
+2,Wed,Afternoon,17,Gallbladder Removal,5,Surgery,4,Surgical Room,1,Anesthesiologist
+2,Fri,Afternoon,32,Joint Replacement,2,Orthopedics,5,Surgical Room,5,Anesthesiologist
+1,Fri,Morning,19,Coronary Artery Bypass Graft,14,Cardiology,0,Surgical Room,1,Anesthesiologist
+1,Sun,Morning,41,Inguinal Hernia Repair,8,Pediatrics,3,Pediatrics,4,Anesthesiologist
+2,Fri,Afternoon,69,Inguinal Hernia Repair,4,Pediatrics,1,Pediatrics,3,Anesthesiologist
+2,Sat,Afternoon,76,Heart Defect Repair,7,Pediatrics,3,Pediatrics,3,Anesthesiologist
+2,Wed,Afternoon,27,Spinal Fusion,2,Orthopedics,5,Surgical Room,6,Anesthesiologist
+2,Sat,Afternoon,24,Spinal Fusion,1,Orthopedics,0,Surgical Room,4,Anesthesiologist
+2,Sun,Afternoon,55,Inguinal Hernia Repair,0,Pediatrics,3,Pediatrics,3,Anesthesiologist
+2,Sun,Afternoon,70,Heart Defect Repair,4,Pediatrics,1,Pediatrics,3,Anesthesiologist
+3,Sat,Night,30,Brain Tumor Removal,3,Neurology,5,Surgical Room,0,Anesthesiologist
+1,Wed,Morning,36,Heart Defect Repair,8,Pediatrics,3,Pediatrics,2,Anesthesiologist
+2,Sat,Afternoon,33,Appendectomy,5,Surgery,4,Surgical Room,5,Anesthesiologist
+3,Wed,Night,39,Gallbladder Removal,5,Surgery,4,Surgical Room,1,Anesthesiologist
+3,Fri,Night,43,Gallbladder Removal,5,Surgery,5,Surgical Room,5,Anesthesiologist
+3,Fri,Night,40,Fracture Repair,1,Orthopedics,5,Surgical Room,1,Anesthesiologist
+3,Sat,Night,42,Spinal Fusion,1,Orthopedics,0,Surgical Room,4,Anesthesiologist
+2,Sun,Afternoon,58,Inguinal Hernia Repair,0,Pediatrics,1,Pediatrics,6,Anesthesiologist
+3,Sat,Night,45,Appendectomy,5,Surgery,4,Surgical Room,5,Anesthesiologist
+3,Wed,Night,60,Valve Replacement,13,Cardiology,5,Surgical Room,6,Anesthesiologist
+3,Sun,Night,50,Brain Tumor Removal,3,Neurology,5,Surgical Room,2,Anesthesiologist
+2,Thu,Afternoon,49,Heart Defect Repair,0,Pediatrics,1,Pediatrics,0,Anesthesiologist
+3,Sun,Night,52,Brain Tumor Removal,3,Neurology,0,Surgical Room,1,Anesthesiologist
+2,Fri,Afternoon,59,Valve Replacement,14,Cardiology,0,Surgical Room,1,Anesthesiologist
+3,Sun,Night,65,Valve Replacement,13,Cardiology,5,Surgical Room,1,Anesthesiologist
+3,Fri,Night,72,Coronary Artery Bypass Graft,14,Cardiology,0,Surgical Room,1,Anesthesiologist
+2,Wed,Afternoon,74,Heart Defect Repair,7,Pediatrics,2,Pediatrics,0,Anesthesiologist
