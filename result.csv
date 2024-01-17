@@ -1,29 +1,25 @@
 Week,Day,Time,ID,Type,ID,Type,ID,Type,ID,Type,ID,Type
-1,Mon,Morning,1,Fracture Repair,0,Orthopedics,3,Surgical Room,0,Anesthesiologist,0,Nurse
-1,Mon,Morning,5,Spinal Fusion,0,Orthopedics,3,Surgical Room,0,Anesthesiologist,0,Nurse
-1,Mon,Morning,7,Brain Tumor Removal,1,Neurology,0,Surgical Room,0,Anesthesiologist,0,Nurse
-1,Tue,Morning,8,Fracture Repair,0,Orthopedics,0,Surgical Room,1,Anesthesiologist,0,Nurse
-1,Wed,Morning,14,Spinal Fusion,0,Orthopedics,0,Surgical Room,1,Anesthesiologist,0,Nurse
-1,Thu,Morning,25,Brain Tumor Removal,1,Neurology,3,Surgical Room,2,Anesthesiologist,0,Nurse
-1,Tue,Morning,32,Brain Tumor Removal,2,Neurology,3,Surgical Room,1,Anesthesiologist,1,Nurse
-1,Fri,Morning,19,Fracture Repair,0,Orthopedics,3,Surgical Room,0,Anesthesiologist,1,Nurse
-1,Fri,Morning,23,Spinal Fusion,0,Orthopedics,0,Surgical Room,2,Anesthesiologist,0,Nurse
-1,Fri,Morning,45,Brain Tumor Removal,2,Neurology,3,Surgical Room,1,Anesthesiologist,0,Nurse
-1,Sat,Morning,48,Spinal Fusion,2,Neurology,3,Surgical Room,1,Anesthesiologist,0,Nurse
-1,Sun,Morning,28,Spinal Fusion,0,Orthopedics,0,Surgical Room,0,Anesthesiologist,1,Nurse
-1,Sun,Morning,29,Fracture Repair,0,Orthopedics,3,Surgical Room,0,Anesthesiologist,0,Nurse
-1,Thu,Morning,42,Brain Tumor Removal,2,Neurology,3,Surgical Room,1,Anesthesiologist,0,Nurse
-2,Mon,Afternoon,33,Fracture Repair,0,Orthopedics,3,Surgical Room,0,Anesthesiologist,0,Nurse
-2,Mon,Afternoon,34,Fracture Repair,0,Orthopedics,3,Surgical Room,0,Anesthesiologist,0,Nurse
-1,Tue,Morning,36,Spinal Fusion,2,Neurology,0,Surgical Room,0,Anesthesiologist,1,Nurse
-2,Tue,Afternoon,40,Joint Replacement,0,Orthopedics,0,Surgical Room,1,Anesthesiologist,0,Nurse
-2,Wed,Afternoon,41,Fracture Repair,0,Orthopedics,0,Surgical Room,1,Anesthesiologist,0,Nurse
-2,Thu,Afternoon,43,Joint Replacement,0,Orthopedics,0,Surgical Room,0,Anesthesiologist,0,Nurse
-2,Fri,Afternoon,44,Joint Replacement,0,Orthopedics,3,Surgical Room,0,Anesthesiologist,1,Nurse
-2,Fri,Afternoon,46,Joint Replacement,0,Orthopedics,0,Surgical Room,2,Anesthesiologist,0,Nurse
-2,Fri,Afternoon,49,Joint Replacement,0,Orthopedics,0,Surgical Room,0,Anesthesiologist,0,Nurse
-2,Sat,Afternoon,52,Joint Replacement,0,Orthopedics,0,Surgical Room,0,Anesthesiologist,0,Nurse
-2,Sun,Afternoon,54,Joint Replacement,0,Orthopedics,0,Surgical Room,0,Anesthesiologist,1,Nurse
-2,Sun,Afternoon,57,Fracture Repair,0,Orthopedics,3,Surgical Room,0,Anesthesiologist,0,Nurse
-1,Sat,Morning,58,Brain Tumor Removal,2,Neurology,3,Surgical Room,0,Anesthesiologist,0,Nurse
-2,Mon,Afternoon,74,Spinal Fusion,1,Neurology,0,Surgical Room,0,Anesthesiologist,0,Nurse
+1,Mon,Morning,16,Inguinal Hernia Repair,2,Pediatrics,2,Pediatrics,2,Anesthesiologist,0,Nurse
+1,Mon,Morning,13,Appendectomy,1,Surgery,3,Surgical Room,2,Anesthesiologist,0,Nurse
+1,Tue,Morning,21,Appendectomy,1,Surgery,3,Surgical Room,2,Anesthesiologist,1,Nurse
+1,Wed,Morning,10,Joint Replacement,0,Orthopedics,1,Surgical Room,2,Anesthesiologist,0,Nurse
+1,Fri,Morning,38,Heart Defect Repair,2,Pediatrics,0,Pediatrics,1,Anesthesiologist,0,Nurse
+1,Sat,Morning,40,Gallbladder Removal,1,Surgery,3,Surgical Room,1,Anesthesiologist,1,Nurse
+1,Tue,Morning,18,Appendectomy,1,Surgery,1,Surgical Room,1,Anesthesiologist,0,Nurse
+1,Wed,Morning,24,Appendectomy,1,Surgery,3,Surgical Room,2,Anesthesiologist,0,Nurse
+1,Thu,Morning,35,Heart Defect Repair,2,Pediatrics,0,Pediatrics,2,Anesthesiologist,1,Nurse
+1,Thu,Morning,26,Inguinal Hernia Repair,2,Pediatrics,2,Pediatrics,0,Anesthesiologist,0,Nurse
+1,Sat,Morning,46,Inguinal Hernia Repair,2,Pediatrics,0,Pediatrics,2,Anesthesiologist,0,Nurse
+1,Sun,Morning,30,Spinal Fusion,0,Orthopedics,3,Surgical Room,1,Anesthesiologist,0,Nurse
+1,Sun,Morning,34,Spinal Fusion,0,Orthopedics,1,Surgical Room,0,Anesthesiologist,1,Nurse
+2,Mon,Afternoon,50,Inguinal Hernia Repair,2,Pediatrics,2,Pediatrics,2,Anesthesiologist,0,Nurse
+2,Mon,Afternoon,52,Inguinal Hernia Repair,2,Pediatrics,2,Pediatrics,2,Anesthesiologist,0,Nurse
+2,Tue,Afternoon,43,Gallbladder Removal,1,Surgery,1,Surgical Room,1,Anesthesiologist,0,Nurse
+2,Tue,Afternoon,55,Joint Replacement,0,Orthopedics,3,Surgical Room,2,Anesthesiologist,1,Nurse
+2,Wed,Afternoon,57,Inguinal Hernia Repair,2,Pediatrics,0,Pediatrics,2,Anesthesiologist,0,Nurse
+2,Wed,Afternoon,53,Appendectomy,1,Surgery,1,Surgical Room,2,Anesthesiologist,0,Nurse
+2,Thu,Afternoon,63,Heart Defect Repair,2,Pediatrics,0,Pediatrics,2,Anesthesiologist,1,Nurse
+2,Fri,Afternoon,74,Heart Defect Repair,2,Pediatrics,0,Pediatrics,1,Anesthesiologist,0,Nurse
+2,Thu,Afternoon,59,Heart Defect Repair,2,Pediatrics,2,Pediatrics,0,Anesthesiologist,0,Nurse
+2,Sat,Afternoon,65,Fracture Repair,0,Orthopedics,3,Surgical Room,1,Anesthesiologist,1,Nurse
+2,Sat,Afternoon,70,Joint Replacement,0,Orthopedics,1,Surgical Room,0,Anesthesiologist,0,Nurse

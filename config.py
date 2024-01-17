@@ -1,9 +1,12 @@
+import random
+random.seed(2024)
+
 # config
 TOT_WEEKS = 2
 
 first_class = 'illness'
 
-range_patient = (75, 100)
+range_patient = (35, 40)
 range_operator = (3, 4)
 range_anesthesiologist = (6, 10)
 range_room = (6, 10)

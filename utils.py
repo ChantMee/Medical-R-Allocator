@@ -1,3 +1,8 @@
+from config import *
+import csv
+import copy
+
+
 def print_arangement(arange):
     ar = arange[2]
     shift = ar['shift']
@@ -86,3 +91,28 @@ def save_arangement(aranges, path=r'C:\Users\chant\OneDrive\Courses\WOA7001 Adva
                     continue
                 row += [ar['id'], ar['type']]
             writer.writerow(row)
+
+
+def print_resource_abstract(resource):
+    print('\n================================================')
+    for category, resources in resource.items():
+        print(f'{category}: {len(resources)}')
+    print('================================================\n')
+
+
+def resources2csv(resources, path=r'resources.csv'):
+    ti_name = ['Morning', 'Afternoon', 'Night']
+    week_name = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+    with open(path, 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        title = ['ID', 'Category', 'Type', 'Flow', 'Shift']
+        writer.writerow(title)
+        for category, resources in resources.items():
+            for resource in resources:
+                _available_shift = []
+                for shift in resource['available_shift']:
+                    day = shift % 100 // 3
+                    ti = shift % 3
+                    _available_shift.append(f'{week_name[day]} {ti_name[ti]}')
+                row = [resource['id'], category, resource['type'], resource['flow'], str(_available_shift)]
+                writer.writerow(row)
